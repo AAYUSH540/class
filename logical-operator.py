@@ -1,0 +1,5 @@
+a=int(input("A = "))
+b=int(input("B = "))
+print((a>b) and (a>0))
+print((a>b) or (a>0))
+print(not (a>b),not (a<b))
